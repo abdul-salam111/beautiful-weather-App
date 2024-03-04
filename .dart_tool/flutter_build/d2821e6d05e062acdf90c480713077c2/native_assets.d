@@ -1,0 +1,1 @@
+ /Users/apple/Documents/flutter\ projects/Flutter\ Projects/beautiful-weather-App/.dart_tool/flutter_build/d2821e6d05e062acdf90c480713077c2/native_assets.yaml: 
